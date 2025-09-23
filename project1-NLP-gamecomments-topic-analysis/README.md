@@ -24,11 +24,13 @@
 ---
 
 ## 📂 文件结构
-├── data/ # Reddit 抓取与清洗后的数据集
-├── scripts/ # Python 脚本，包括建模与可视化代码
-├── images/ # 可视化图表与结果展示
-├── report/ # 项目完整报告 (PDF & DOCX)
-└── README.md # 当前说明文档
+.
+- `/report/` —— 项目完整报告（PDF/Docx）  
+- `/data/` —— 清洗后的数据集  
+- `/notebooks/` —— 分析与建模的 Python 脚本与 Notebook  
+- `/figures/` —— 可视化图片结果  
+- `/README.md` —— 项目说明文档  
+
 
 
 ---
@@ -88,14 +90,11 @@ This project was developed as part of the **Social Media & Web Analytics** modul
 ---
 
 ## 📂 Repository Structure
-├── data/ # Collected and cleaned Reddit dataset
-├── scripts/ # Python scripts for modeling & visualization
-├── images/ # Visualizations and charts
-├── report/ # Full project report (PDF & DOCX)
-└── README.md # This file
-
-
----
+- `/report/` —— # Full project report (PDF & DOCX)
+- `/data/` —— # Collected and cleaned Reddit dataset  
+- `/notebooks/` —— # Python scripts for modeling & visualization  
+- `/figures/` ——   # Visualizations and charts
+- `/README.md` —— # This file
 
 ## 📈 Visualization Highlights
 - Topic distribution bar chart (high vs. low frequency topics)  
