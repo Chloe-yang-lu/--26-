@@ -31,8 +31,19 @@
 - `/figures/` —— 可视化图片结果  
 - `/README.md` —— 项目说明文档  
 
+---
+## 🚀 如何使用
+0. 环境要求
+- Python 3.8 或更高版本
+- 包管理工具 pip
 
+1. 克隆本仓库：  
+   ```bash
+   git clone https://github.com/your-username/assassins-creed-shadows-nlp.git
+   cd assassins-creed-shadows-nlp
 
+2. 导入数据，运行分析脚本或查看报告与可视化结果。
+   
 ---
 
 ## 📈 可视化示例
@@ -95,6 +106,19 @@ This project was developed as part of the **Social Media & Web Analytics** modul
 - `/notebooks/` —— # Python scripts for modeling & visualization  
 - `/figures/` ——   # Visualizations and charts
 - `/README.md` —— # This file
+
+---
+## 🚀 how to use
+0. Prerequisites
+- Python 3.8 or higher
+- Package manager pip
+
+1. Clone this repository to your local machine:：  
+   ```bash
+   git clone https://github.com/your-username/assassins-creed-shadows-nlp.git
+   cd assassins-creed-shadows-nlp
+
+2. Run the analysis transcript or check the report pdf and visualization results.
 
 ## 📈 Visualization Highlights
 - Topic distribution bar chart (high vs. low frequency topics)  
