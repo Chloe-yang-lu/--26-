@@ -37,12 +37,12 @@
 - Python 3.8 或更高版本
 - 包管理工具 pip
 
-1. 克隆本仓库：  
+1. 克隆本仓库并进入项目目录：  
    ```bash
-   git clone https://github.com/your-username/assassins-creed-shadows-nlp.git
-   cd assassins-creed-shadows-nlp
+   git clone https://github.com/Chloe-yang-lu/works_collection-2025.git
+   cd works_collection-2025/project1-NLP-gamecomments-topic-analysis/
 
-2. 导入数据，运行分析脚本或查看报告与可视化结果。
+2. 运行分析脚本或查看报告与可视化结果。
    
 ---
 
@@ -108,17 +108,17 @@ This project was developed as part of the **Social Media & Web Analytics** modul
 - `/README.md` —— # This file
 
 ---
-## 🚀 how to use
+## 🚀 Quick Start
 0. Prerequisites
 - Python 3.8 or higher
 - Package manager pip
 
 1. Clone this repository to your local machine:：  
    ```bash
-   git clone https://github.com/your-username/assassins-creed-shadows-nlp.git
-   cd assassins-creed-shadows-nlp
+   git clone https://github.com/Chloe-yang-lu/works_collection-2025.git
+   cd works_collection-2025/project1-NLP-gamecomments-topic-analysis/
 
-2. Run the analysis transcript or check the report pdf and visualization results.
+2. Run the analysis transcripts or check project report & visualization results.
 
 ## 📈 Visualization Highlights
 - Topic distribution bar chart (high vs. low frequency topics)  
