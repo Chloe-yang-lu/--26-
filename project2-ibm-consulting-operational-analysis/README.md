@@ -33,12 +33,12 @@
 
 ## 📂 仓库结构
 project2-ibm-consulting-operational-analysis/
-│── 01_team_deliverables/ # 团队交付物（报告、PPT、Output Spec）
-│── 02_individual_Business_Analysis_report/ # 📄 个人报告（中文）
-│── 03_individual_clustering_analysis_notebook/ # 💻 聚类分析 Notebook
-│── 04_individual_clustering_data/ # 数据集（Kaggle Coffee Shop Sales）
-│── 05_individual_clustering_figures/ # 图表与可视化
-│── README.md
+- `/01_team_deliverables/` # 团队交付物（报告、PPT、Output Spec）
+- `/02_individual_Business_Analysis_report/` # 📄 个人报告（中文）
+- `/03_individual_clustering_analysis_notebook/` # 💻 聚类分析 Notebook
+- `/04_individual_clustering_data/` # 数据集（Kaggle Coffee Shop Sales）
+- `/05_individual_clustering_figures/` # 图表与可视化
+- `/README.md/` 
 
 
 ---
@@ -86,13 +86,12 @@ This project is part of the **IBM Consulting Simulation (*Coffee Empire*)**, int
 
 ## 📂 Repository Structure
 project2-ibm-consulting-operational-analysis/
-│── 01_team_deliverables/ # Team report, slides, output spec
-│── 02_individual_Business_Analysis_report/ # 📄 Individual report (Chinese)
-│── 03_individual_clustering_analysis_notebook/ # 💻 Clustering notebooks
-│── 04_individual_clustering_data/ # Dataset (Kaggle Coffee Shop Sales)
-│── 05_individual_clustering_figures/ # Figures & visualizations
-│── README.md
-
+- `/01_team_deliverables/` # Team report, slides, output spec
+- `/02_individual_Business_Analysis_report/` # 📄 Individual report (Chinese)
+- `/03_individual_clustering_analysis_notebook/` # 💻 聚类分析 Notebook
+- `/04_individual_clustering_data/` # 💻 Clustering notebooks
+- `/05_individual_clustering_figures/` # Figures & visualizations
+- `/README.md/` 
 
 ---
 
