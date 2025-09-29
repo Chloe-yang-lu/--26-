@@ -73,7 +73,7 @@ To complement the quantitative analysis, I also conducted **thematic interviews*
 ---
 
 ## 📂 Repository Structure
-
+```bash
 ├── figures/          # Visualization figures (AVI curves, HMM states, etc.)
 ├── notebooks/        # Jupyter Notebooks (data processing & modeling code)
 ├── report_chinese/   # Chinese report (PDF & DOCX format)
