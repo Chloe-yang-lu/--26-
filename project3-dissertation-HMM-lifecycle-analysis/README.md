@@ -1,4 +1,4 @@
-# 🎮 Mobile Games Lifecycle Analysis (基于生命周期理论的移动游戏分析)
+# 🎭 Mobile Games Lifecycle Analysis (基于生命周期理论的移动游戏分析)
 
 [English Version Below ⬇️](#english-version)
 
