@@ -4,7 +4,7 @@
 
 
 
-## 📖 项目简介
+### 📖 项目简介
 
 本项目基于硕士毕业论文，结合 **产品生命周期理论 (PLC)** 与 **数据驱动方法**，提出了一个用于分析和监测移动游戏生命周期的框架。  
 设计了新的复合指标 **Active Value Index (AVI)**，并利用 **隐马尔可夫模型 (HMM)** 对多个移动游戏的运营数据进行无监督建模，识别其生命周期阶段。  
@@ -13,7 +13,7 @@
 
 
 
-## 📂 仓库结构
+### 📂 仓库结构
 
 ```bash
 ├── figures/          # 可视化图表 (AVI 曲线、HMM 状态划分等)
@@ -25,7 +25,7 @@
 
 
 
-## 🔑 研究亮点
+### 🔑 研究亮点
 
 - 理论结合：将经典产品生命周期理论与数据驱动方法融合。
 - 方法创新：提出 AVI 指标，克服单一指标 (DAU/Revenue) 的局限性。
@@ -34,7 +34,7 @@
 
 
 
-## 📊 技术栈
+### 📊 技术栈
 
 - 编程语言：Python
 - 主要库：pandas, numpy, matplotlib, seaborn, hmmlearn
@@ -43,14 +43,14 @@
 
 
 
-## 📑 学术伦理说明
+### 📑 学术伦理说明
 
 - 完整论文未公开，以遵守学术规范。
 - 此仓库仅展示研究方法、核心发现与技术实现，用于职业展示。
 
 
 
-## 👩‍💻 作者
+### 👩‍💻 作者
 杨璐 Lu Yang  
 - MSc Business Analytics, University of Bristol  
 - 方向：数据分析、NLP 应用、游戏行业市场研究  
@@ -64,11 +64,11 @@
 ###English version
 
 <a id="english-version"></a>
-## 🎮 Mobile Games Lifecycle Analysis
+### 🎮 Mobile Games Lifecycle Analysis
 
 
 
-## 📖 Project Overview
+### 📖 Project Overview
 
 This project is based on my MSc dissertation, which integrates **Product Lifecycle Theory (PLC)** with **data-driven methods** to analyze and monitor the lifecycle of mobile games.  
 I designed a composite indicator called **Active Value Index (AVI)** and applied a **Hidden Markov Model (HMM)** to time-series data from multiple games, identifying their lifecycle stages.  
@@ -77,7 +77,7 @@ To complement the quantitative analysis, I also conducted **thematic interviews*
 
 
 
-## 📂 Repository Structure
+### 📂 Repository Structure
 ```bash
 ├── figures/          # Visualization figures (AVI curves, HMM states, etc.)
 ├── notebooks/        # Jupyter Notebooks (data processing & modeling code)
@@ -86,7 +86,7 @@ To complement the quantitative analysis, I also conducted **thematic interviews*
 ```
 
 
-## 🔑 Key Highlights
+### 🔑 Key Highlights
 
 - Theory & Practice: Extends classic PLC with data-driven approaches.
 - Methodological Innovation: Proposed AVI, overcoming limitations of single indicators (DAU/Revenue).
@@ -95,7 +95,7 @@ To complement the quantitative analysis, I also conducted **thematic interviews*
 
 
 
-## 📊 Tech Stack
+### 📊 Tech Stack
 
 - Programming: Python
 - Libraries: pandas, numpy, matplotlib, seaborn, hmmlearn
@@ -104,7 +104,7 @@ To complement the quantitative analysis, I also conducted **thematic interviews*
 
 
 
-## 📑 Academic Integrity Statement
+### 📑 Academic Integrity Statement
 
 - The full dissertation is not publicly available, in compliance with academic norms.
 - This repository only includes methods, key findings, and technical implementations for professional presentation.
@@ -112,7 +112,7 @@ To complement the quantitative analysis, I also conducted **thematic interviews*
 
 
 
-## 👩‍💻 Author
+### 👩‍💻 Author
 Lu Yang  
 - MSc Business Analytics, University of Bristol  
 - Focus: Data Analytics, NLP applications, Gaming market research  
