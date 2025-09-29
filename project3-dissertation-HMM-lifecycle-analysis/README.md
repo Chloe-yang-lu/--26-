@@ -20,6 +20,7 @@
 ├── notebooks/        # Jupyter Notebook 文件 (数据处理与建模代码)
 ├── report_chinese/   # 中文报告 (PDF 与 DOCX 格式)
 └── README.md         # 项目说明文档
+```
 
 ---
 
@@ -74,12 +75,14 @@ I designed a composite indicator called Active Value Index (AVI) and applied a H
 
 To complement the quantitative analysis, I also conducted thematic interviews with both an industry practitioner and players, bringing in perspectives on business strategies and user psychology.
 ---
+
+```bash
 📂 Repository Structure
 ├── figures/          # Visualization figures (AVI curves, HMM states, etc.)
 ├── notebooks/        # Jupyter Notebooks (data processing & modeling code)
 ├── report_chinese/   # Chinese report (PDF & DOCX format)
 └── README.md         # Project documentation
-
+```
 ---
 
 🔑 Key Highlights
