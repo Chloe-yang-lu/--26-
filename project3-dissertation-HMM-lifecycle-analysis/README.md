@@ -51,10 +51,10 @@
 ---
 
 ## 👩‍💻 作者
-
-**杨璐 (Lu Yang)**  
-University of Bristol, MSc Business Analytics, Class of 2026  
-📧 Email: yangluchloe@163.com
+杨璐 Lu Yang  
+- MSc Business Analytics, University of Bristol  
+- 方向：数据分析、NLP 应用、游戏行业市场研究  
+- 联系方式：yangluchloe@163.com  
 
 ---
 
@@ -106,8 +106,9 @@ To complement the quantitative analysis, I also conducted **thematic interviews*
 
 ---
 
-## 👩‍💻 Author
 
-**Lu Yang**  
-University of Bristol, MSc Business Analytics, Class of 2026  
-📧 Email: yangluchloe@163.com
+## 👩‍💻 Author
+Lu Yang  
+- MSc Business Analytics, University of Bristol  
+- Focus: Data Analytics, NLP applications, Gaming market research  
+- Contact: yangluchloe@163.com  
