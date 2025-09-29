@@ -22,53 +22,49 @@
 └── README.md         # 项目说明文档
 ```
 
----
-
-🔑 研究亮点
-
-理论结合：将经典产品生命周期理论与数据驱动方法融合。
-
-方法创新：提出 AVI 指标，克服单一指标 (DAU/Revenue) 的局限性。
-
-模型应用：基于 HMM 识别生命周期阶段，分析不同公司与类型游戏的差异。
-
-实践验证：通过行业从业者和玩家访谈，增强模型解释力与应用价值。
 
 ---
 
-📊 技术栈
+## 🔑 研究亮点
 
-编程语言：Python
-
-主要库：pandas, numpy, matplotlib, seaborn, hmmlearn
-
-方法：时间序列建模、隐马尔可夫模型、主题分析
-
-应用场景：游戏数据分析、市场研究、产品运营优化
+- 理论结合：将经典产品生命周期理论与数据驱动方法融合。
+- 方法创新：提出 AVI 指标，克服单一指标 (DAU/Revenue) 的局限性。
+- 模型应用：基于 HMM 识别生命周期阶段，分析不同公司与类型游戏的差异。
+- 实践验证：通过行业从业者和玩家访谈，增强模型解释力与应用价值。
 
 ---
 
-📑 学术伦理说明
+## 📊 技术栈
 
-完整论文 未公开，以遵守学术规范。
-
-此仓库仅展示 研究方法、核心发现与技术实现，用于职业展示。
+- 编程语言：Python
+- 主要库：pandas, numpy, matplotlib, seaborn, hmmlearn
+- 方法：时间序列建模、隐马尔可夫模型、主题分析
+- 应用场景：游戏数据分析、市场研究、产品运营优化
 
 ---
 
-👩‍💻 作者
+## 📑 学术伦理说明
 
-杨璐 (Lu Yang)
+- 完整论文未公开，以遵守学术规范。
+- 此仓库仅展示研究方法、核心发现与技术实现，用于职业展示。
 
-University of Bristol, MSc Business Analytics, Class of 2026
+---
 
+## 👩‍💻 作者
+
+**杨璐 (Lu Yang)**  
+University of Bristol, MSc Business Analytics, Class of 2026  
 📧 Email: yangluchloe@163.com
 
+---
+
+<a id="english-version"></a>
+## 🎮 Mobile Games Lifecycle Analysis
 
 ---
-##English Version
 
 ## 📖 Project Overview
+
 This project is based on my MSc dissertation, which integrates **Product Lifecycle Theory (PLC)** with **data-driven methods** to analyze and monitor the lifecycle of mobile games.  
 I designed a composite indicator called **Active Value Index (AVI)** and applied a **Hidden Markov Model (HMM)** to time-series data from multiple games, identifying their lifecycle stages.  
 
@@ -76,8 +72,8 @@ To complement the quantitative analysis, I also conducted **thematic interviews*
 
 ---
 
-```bash
-📂 Repository Structure
+## 📂 Repository Structure
+
 ├── figures/          # Visualization figures (AVI curves, HMM states, etc.)
 ├── notebooks/        # Jupyter Notebooks (data processing & modeling code)
 ├── report_chinese/   # Chinese report (PDF & DOCX format)
@@ -85,44 +81,33 @@ To complement the quantitative analysis, I also conducted **thematic interviews*
 ```
 ---
 
-🔑 Key Highlights
+## 🔑 Key Highlights
 
-Theory & Practice: Extends classic PLC with data-driven approaches.
-
-Methodological Innovation: Proposed AVI, overcoming limitations of single indicators (DAU/Revenue).
-
-Modeling: Applied HMM to detect lifecycle stages across different companies and game genres.
-
-Validation: Supplemented findings with thematic interviews, bridging quantitative models and real-world insights.
+- Theory & Practice: Extends classic PLC with data-driven approaches.
+- Methodological Innovation: Proposed AVI, overcoming limitations of single indicators (DAU/Revenue).
+- Modeling: Applied HMM to detect lifecycle stages across different companies and game genres.
+- Validation: Supplemented findings with thematic interviews, bridging quantitative models and real-world insights.
 
 ---
 
-📊 Tech Stack
+## 📊 Tech Stack
 
-Programming: Python
-
-Libraries: pandas, numpy, matplotlib, seaborn, hmmlearn
-
-Methods: Time-series modeling, Hidden Markov Models, Thematic Analysis
-
-Applications: Game data analytics, market research, product lifecycle management
+- Programming: Python
+- Libraries: pandas, numpy, matplotlib, seaborn, hmmlearn
+- Methods: Time-series modeling, Hidden Markov Models, Thematic Analysis
+- Applications: Game data analytics, market research, product lifecycle management
 
 ---
 
-📑 Academic Integrity Statement
+## 📑 Academic Integrity Statement
 
-The full dissertation is not publicly available, in compliance with academic norms.
-
-This repository only includes methods, key findings, and technical implementations for professional presentation.
+- The full dissertation is not publicly available, in compliance with academic norms.
+- This repository only includes methods, key findings, and technical implementations for professional presentation.
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
-Lu Yang
-
-University of Bristol, MSc Business Analytics, Class of 2026
-
+**Lu Yang**  
+University of Bristol, MSc Business Analytics, Class of 2026  
 📧 Email: yangluchloe@163.com
-
----
