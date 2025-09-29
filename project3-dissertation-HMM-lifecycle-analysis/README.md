@@ -2,7 +2,7 @@
 
 [English Version Below ⬇️](#english-version)
 
----
+
 
 ## 📖 项目简介
 
@@ -11,7 +11,7 @@
 
 此外，本研究还通过 **质性访谈 (Thematic Analysis)** 验证模型结果，从 **行业实践** 和 **玩家心理** 两个角度，补充了数据分析的洞察。  
 
----
+
 
 ## 📂 仓库结构
 
@@ -23,7 +23,7 @@
 ```
 
 
----
+
 
 ## 🔑 研究亮点
 
@@ -32,7 +32,7 @@
 - 模型应用：基于 HMM 识别生命周期阶段，分析不同公司与类型游戏的差异。
 - 实践验证：通过行业从业者和玩家访谈，增强模型解释力与应用价值。
 
----
+
 
 ## 📊 技术栈
 
@@ -41,14 +41,14 @@
 - 方法：时间序列建模、隐马尔可夫模型、主题分析
 - 应用场景：游戏数据分析、市场研究、产品运营优化
 
----
+
 
 ## 📑 学术伦理说明
 
 - 完整论文未公开，以遵守学术规范。
 - 此仓库仅展示研究方法、核心发现与技术实现，用于职业展示。
 
----
+
 
 ## 👩‍💻 作者
 杨璐 Lu Yang  
@@ -56,12 +56,12 @@
 - 方向：数据分析、NLP 应用、游戏行业市场研究  
 - 联系方式：yangluchloe@163.com  
 
----
+
 
 <a id="english-version"></a>
 ## 🎮 Mobile Games Lifecycle Analysis
 
----
+
 
 ## 📖 Project Overview
 
@@ -70,7 +70,7 @@ I designed a composite indicator called **Active Value Index (AVI)** and applied
 
 To complement the quantitative analysis, I also conducted **thematic interviews** with both an industry practitioner and players, bringing in perspectives on business strategies and user psychology.  
 
----
+
 
 ## 📂 Repository Structure
 ```bash
@@ -79,7 +79,7 @@ To complement the quantitative analysis, I also conducted **thematic interviews*
 ├── report_chinese/   # Chinese report (PDF & DOCX format)
 └── README.md         # Project documentation
 ```
----
+
 
 ## 🔑 Key Highlights
 
@@ -88,7 +88,7 @@ To complement the quantitative analysis, I also conducted **thematic interviews*
 - Modeling: Applied HMM to detect lifecycle stages across different companies and game genres.
 - Validation: Supplemented findings with thematic interviews, bridging quantitative models and real-world insights.
 
----
+
 
 ## 📊 Tech Stack
 
@@ -97,14 +97,14 @@ To complement the quantitative analysis, I also conducted **thematic interviews*
 - Methods: Time-series modeling, Hidden Markov Models, Thematic Analysis
 - Applications: Game data analytics, market research, product lifecycle management
 
----
+
 
 ## 📑 Academic Integrity Statement
 
 - The full dissertation is not publicly available, in compliance with academic norms.
 - This repository only includes methods, key findings, and technical implementations for professional presentation.
 
----
+
 
 
 ## 👩‍💻 Author
