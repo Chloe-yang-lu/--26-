@@ -66,14 +66,14 @@ University of Bristol, MSc Business Analytics, Class of 2026
 
 
 ---
+##English Version
 
-English Version
-📖 Project Overview
+## 📖 Project Overview
+This project is based on my MSc dissertation, which integrates **Product Lifecycle Theory (PLC)** with **data-driven methods** to analyze and monitor the lifecycle of mobile games.  
+I designed a composite indicator called **Active Value Index (AVI)** and applied a **Hidden Markov Model (HMM)** to time-series data from multiple games, identifying their lifecycle stages.  
 
-This project is based on my MSc dissertation, which integrates Product Lifecycle Theory (PLC) with data-driven methods to analyze and monitor the lifecycle of mobile games.
-I designed a composite indicator called Active Value Index (AVI) and applied a Hidden Markov Model (HMM) to time-series data from multiple games, identifying their lifecycle stages.
+To complement the quantitative analysis, I also conducted **thematic interviews** with both an industry practitioner and players, bringing in perspectives on business strategies and user psychology.  
 
-To complement the quantitative analysis, I also conducted thematic interviews with both an industry practitioner and players, bringing in perspectives on business strategies and user psychology.
 ---
 
 ```bash
