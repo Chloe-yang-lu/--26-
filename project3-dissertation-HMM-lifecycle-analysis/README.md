@@ -56,7 +56,9 @@
 - 方向：数据分析、NLP 应用、游戏行业市场研究  
 - 联系方式：yangluchloe@163.com  
 
+--
 
+###English version
 
 <a id="english-version"></a>
 ## 🎮 Mobile Games Lifecycle Analysis
