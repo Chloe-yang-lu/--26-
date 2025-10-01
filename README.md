@@ -9,7 +9,7 @@
 
 ## 本仓库包含：
 
-### project 1 - 🎮 游戏玩家话题分析：基于NLP的社交媒体洞察
+### project 1 - 🎮 游戏玩家话题分析：基于NLP的社交媒体洞察 
 
 *个人研究 | Python, BERTopic, Reddit API | 2025.02 - 2025.04*
 
