@@ -9,7 +9,7 @@
 
 ## 本仓库包含：
 
-### project 1 - 🎮 游戏玩家话题分析：基于NLP的社交媒体洞察 
+### project 1 - 🎮 游戏玩家话题分析：基于NLP的社交媒体洞察  [查看介绍](https://bit.ly/yanglu_NLP_topic)
 
 *个人研究 | Python, BERTopic, Reddit API | 2025.02 - 2025.04*
 
@@ -22,7 +22,7 @@
 
 
 
-### project 2 - ☕ 数据驱动的咖啡店工作负载规划模型
+### project 2 - ☕ 数据驱动的咖啡店工作负载规划模型  [查看介绍](https://bit.ly/yanglu_IBM_coffee)
 
 *团队项目（与IBM合作）| Python, K-means, 多目标优化 | 2025.01 - 2025.03*
 
@@ -35,7 +35,7 @@
 
 
 
-### project 3 - 📱 手游生命周期阶段的无监督识别（硕士毕业论文）
+### project 3 - 📱 手游生命周期阶段的无监督识别（硕士毕业论文） [查看介绍](https://bit.ly/46YR2vz)
 
 *HMM, 时间序列分析, 用户访谈 | 2025.05 - 2025.09*
 
